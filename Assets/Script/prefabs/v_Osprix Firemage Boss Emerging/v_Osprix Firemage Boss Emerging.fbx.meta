@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: e8d0b12f6b38db740b02781f9778b8ba
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -827995161771889510
+    second: Osprix_Ground_Idle
+  - first:
+      74: -4533617855066305915
+    second: Osprix_Ground_STUN
+  - first:
+      74: -7513853536737458246
+    second: FlyingOsprix_TransFly
+  - first:
+      74: 9089820752702849767
+    second: Osprix_Ground_StbAttack_01
+  - first:
+      74: -4299473247583425870
+    second: Osprix_Ground_Move
+  - first:
+      74: 6919368733949420793
+    second: Osprix_Fly_Idle
+  - first:
+      74: -8419370343509428464
+    second: Osprix_Fly_TransIdle
+  - first:
+      74: -608487491949427247
+    second: Osprix_Fly_Movement
+  - first:
+      74: 2720953962817410774
+    second: Osprix_Ground_FSpellCast
+  - first:
+      74: 7012604436088965435
+    second: Osprix_Fly_FSpellCast
+  - first:
+      74: -1221455656278599303
+    second: Osprix_Ground_StbAttack_03
+  - first:
+      74: 7832173188292988232
+    second: Osprix_Ground_LSAttack
+  - first:
+      74: -972528351944246726
+    second: Osprix_Ground_LMAttack
+  - first:
+      74: 4464023637800321248
+    second: Osprix_Fly_MStab
+  - first:
+      74: 650786593357186455
+    second: Osprix_Fly_SwoopD
+  - first:
+      74: -4123172858790730893
+    second: Osprix_Fly_LSpellCast
+  - first:
+      74: 9204515207280563190
+    second: Osprix_Fly_Entrance
+  - first:
+      74: -3735462466419228184
+    second: Osprix_Fly_Entrance_Still
+  - first:
+      74: 5091336412621810311
+    second: Osprix_DeathV3
+  - first:
+      74: 3226658641063759048
+    second: Osprix_GetHit
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
